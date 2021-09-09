@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Rohith S
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning computer engineering
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 28hita@gmail.com
 
 <!---
