@@ -1,8 +1,5 @@
 # I'm Rohith S 
 ### Hello there  ![]( https://visitor-badge.glitch.me/badge?page_id=fineanmol ) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-<a href="https://twitter.com/rohith_s_prabhu">
-  <img align="left" alt="Rohith S | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a> 
 <a href="https://www.linkedin.com/in/rohith-s-60973419a/">
   <img align="left" alt="Rohith S | LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
@@ -12,6 +9,9 @@
 <a href="https://www.instagram.com/rohith_s_prabhu/">
   <img align="left" alt="Rohith S | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
+<a href="https://twitter.com/rohith_s_prabhu">
+  <img align="left" alt="Rohith S | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a> 
 
 
 
