@@ -61,11 +61,11 @@
 -->
 
 <br>
-<br>
+
 <details>
 <summary>📈 My GitHub Stats</summary>
 </details>
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=prabhurohiths&show_icons=true" alt="rohiths" />
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=prabhurohiths&show_icons=true" alt="rohiths" />
 
 
 
