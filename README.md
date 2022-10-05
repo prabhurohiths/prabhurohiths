@@ -36,7 +36,7 @@
 
  <div> 
   <!--<img align="center" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" /> -->
- [![Rohith's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=prabhurohiths)](https://git.io/J1Ycx)
+ <img align="center" src="https://activity-graph.herokuapp.com/graph?username=prabhurohiths"  alt="graph"/>
 </div>
  
 <hr>
