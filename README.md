@@ -78,7 +78,7 @@
 
 <hr>
 <details>
-<summary>📈 My GitHub Stats</summary>
+<summary>📈 My GitHub Stats:</summary>
 </details> 
 
 <p align="center">
