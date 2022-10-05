@@ -1,6 +1,6 @@
 # I'm Rohith S 
 ### Hello there  ![]( https://visitor-badge.glitch.me/badge?page_id=prabhurohiths ) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-<a href="https://www.linkedin.com/in/rohith-s-60973419a/">
+<a style="color:white" href="https://www.linkedin.com/in/rohith-s-60973419a/">
   <img align="left" alt="Rohith S | LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://t.me/rohith_prabhu">
