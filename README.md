@@ -24,8 +24,8 @@
 <br>
 <b>About Personal Stuffs:</b>
 
-- 🌱 I’m currently learning about **Flutter**
-- 🪘 I'm a Tabla Player
+- 🌱 I’m currently learning about **Flutter**.
+- 🪘 I'm a Tabla Player.
 
 <!-- - 👨‍💻 All about me is at [My Website](https:///)-->
 
