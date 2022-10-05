@@ -1,5 +1,8 @@
 <!--# I'm Rohith S --> 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&color=FFFFFF&lines=Hey+im+Rohith+S!)](https://git.io/typing-svg)
+
+<hr>
+
 ### Hello there  ![]( https://visitor-badge.glitch.me/badge?page_id=prabhurohiths ) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 <a href="https://www.linkedin.com/in/rohith-s-60973419a/">
   <img  align="left" alt="Rohith S | LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
@@ -78,6 +81,9 @@
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prabhurohiths&layout=compact&langs_count=7&count_private=true&show_icons=true&theme=material-palenight&hide_border=true&bg_color=1F222E"/>
  </div>
+ 
+ <hr>
+
   
 <div align="center"> <img src="https://raw.githubusercontent.com/muhiqsimui/muhiqsimui/output/github-contribution-grid-snake.svg" /></div>
 
