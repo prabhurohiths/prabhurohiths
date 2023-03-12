@@ -1,7 +1,7 @@
 <!--# I'm Rohith S --> 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&color=FFFFFF&lines=Hey+im+Rohith+S!)](https://git.io/typing-svg)
 
-<hr>
+<hr style="color:red">
 
 ### Hello there  ![]( https://visitor-badge.glitch.me/badge?page_id=prabhurohiths ) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 <a href="https://www.linkedin.com/in/rohith-s-60973419a/">
