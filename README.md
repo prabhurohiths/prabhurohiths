@@ -35,7 +35,8 @@
 
  <div> 
   <!--<img align="center" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" /> -->
- <img align="center" src="https://activity-graph.herokuapp.com/graph?username=prabhurohiths"  alt="graph"/>
+<!--  <img align="center" src="https://activity-graph.herokuapp.com/graph?username=prabhurohiths"  alt="graph"/> -->
+  ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=prabhurohiths&theme=dracula)
 </div>
  
 <hr>
