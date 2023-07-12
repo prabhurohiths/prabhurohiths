@@ -25,6 +25,7 @@
 <b>About Personal Stuffs:</b>
 
 <!-- - 🌱 Currently learning about **Flutter**. -->
+- 👨‍💻 Intrested in Coding.
 - 🪘 I'm a Tabla Player.
 - 💬 Ask me about anything, I am happy to help;
 
