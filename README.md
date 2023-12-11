@@ -21,7 +21,7 @@
 
 
 <br><br>
-<h4>I'm a Student at  Vivekananda college of engineering and technology Puttur, I enjoy listening music.</h4>
+<h4>Alumni of Vivekananda college of engineering and technology Puttur</h4>
 <br>
 <b>About Personal Stuffs:</b>
 
