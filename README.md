@@ -1,6 +1,6 @@
 <!--# I'm Rohith S --> 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&color=FFFFFF&lines=Hey+im+Rohith+S!)](https://git.io/typing-svg)
-<script src='https://kit.fontawesome.com/a076d05399.js' crossorigin='anonymous'></script>
+
 
 <hr>
 
