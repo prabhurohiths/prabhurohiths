@@ -26,9 +26,9 @@
 <b>About Personal Stuffs:</b>
 
 <!-- - 🌱 Currently learning about **Flutter**. -->
-- <i class='far fa-building' style='font-size:24px'></i>Intrested in Coding.
-- 🪘 I'm a Tabla Player.
-- 💬 Ask me about anything, I am happy to help;
+- Intern @ ThoughtGrains.
+- I'm a Tabla Player.
+- Ask me about anything, I am happy to help;
 
 <!-- - 👨‍💻 All about me is at [My Website](https:///)-->
 <!--📄 Know about my work & experiences [My Resume](https://drive.google.com/) -->
