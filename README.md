@@ -1,5 +1,6 @@
 <!--# I'm Rohith S --> 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&color=FFFFFF&lines=Hey+im+Rohith+S!)](https://git.io/typing-svg)
+<script src='https://kit.fontawesome.com/a076d05399.js' crossorigin='anonymous'></script>
 
 <hr>
 
@@ -25,7 +26,7 @@
 <b>About Personal Stuffs:</b>
 
 <!-- - 🌱 Currently learning about **Flutter**. -->
-- 👨‍💻 Intrested in Coding.
+- <i class='far fa-building' style='font-size:24px'></i>Intrested in Coding.
 - 🪘 I'm a Tabla Player.
 - 💬 Ask me about anything, I am happy to help;
 
