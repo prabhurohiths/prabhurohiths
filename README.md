@@ -26,7 +26,7 @@
 <b>About Personal Stuffs:</b>
 
 <!-- - 🌱 Currently learning about **Flutter**. -->
-- Intern @ ThoughtGrains.
+- Full Stack Developer @ ThoughtGrains.
 - I'm a Tabla Player.
 - Ask me about anything, I am happy to help;
 
