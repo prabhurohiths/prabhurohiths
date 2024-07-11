@@ -27,7 +27,7 @@
 
 <!-- - 🌱 Currently learning about **Flutter**. -->
 - Full Stack Developer @ ThoughtGrains.
-- Java | Linux Server | Spring Boot | MongoDB | Oracle Database | AngularJS | JavaScript | TypeScript
+- Java | Linux Server | Spring Boot | MongoDB | Oracle Database | AngularJS | JavaScript | TypeScript.
 - Tabla Player.
 - Ask me about anything, I am happy to help;
 
